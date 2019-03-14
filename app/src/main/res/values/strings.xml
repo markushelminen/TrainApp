@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrainApp</string>
+    <string-array name="stations_array">
+        <item>Hyvinkää</item>
+        <item>Järvenpää</item>
+        <item>Kerava</item>
+        <item>Riihimäki</item>
+        <item>Tikkurila</item>
+    </string-array>
+</resources>
